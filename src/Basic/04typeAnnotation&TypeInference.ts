@@ -1,3 +1,4 @@
+// 类型注解和类型推断
 // 类型注解
 let count4: number;
 count4 = 123;
@@ -11,10 +12,10 @@ const two = 2;
 const three = one + two;
 
 //需要写类型注解
-function getTotal(funone: number, funtwo: number) {
+function getTotal4(funone: number, funtwo: number) {
   return funone + funtwo;
 }
-const total = getTotal(1, 2);
+const total = getTotal4(1, 2);
 
 const Human4 = {
   name: "代罔",

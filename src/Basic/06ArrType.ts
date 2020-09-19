@@ -1,3 +1,4 @@
+// 数组类型注解的方法
 const numArr: number[] = [1, 2, 3];
 const strArr: string[] = ["1", "a", "b"];
 const undefinedArr: undefined[] = [undefined, undefined];

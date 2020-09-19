@@ -1,3 +1,4 @@
+// TypeScript静态类型
 let count: number = 1;
 
 interface Human {

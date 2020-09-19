@@ -1,3 +1,4 @@
+// 基础静态类型和对象静态类型
 const count3: number = 996;
 const myName: string = "代罔";
 // null , undefined ,boolean,void ,symbol

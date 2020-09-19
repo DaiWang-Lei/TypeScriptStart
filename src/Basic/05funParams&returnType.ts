@@ -1,7 +1,8 @@
-function getTotal(one: number, two: number): number {
+// 函数参数和返回类型的注解
+function getTotal5(one: number, two: number): number {
   return one + two;
 }
-const total5 = getTotal(1, 2);
+const total5 = getTotal5(1, 2);
 
 //没有返回值的时候 要返回void
 function sayHello(): void {
