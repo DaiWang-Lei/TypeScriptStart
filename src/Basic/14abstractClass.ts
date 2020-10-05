@@ -36,6 +36,6 @@ class DaiWang extends Human14{
     }
 }
 
-const daiwang = new DaiWang()
-console.log(daiwang.name());
+const daiwang14 = new DaiWang()
+console.log(daiwang14.name());
 

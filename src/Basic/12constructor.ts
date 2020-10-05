@@ -11,6 +11,6 @@
      }
  }
 
- const human = new Human12(12)
- console.log(human.age);
+ const human12 = new Human12(12)
+ console.log(human12.age);
  

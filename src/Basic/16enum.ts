@@ -16,6 +16,6 @@ function getSome(status: any) {
     }
 }
 
-const res = getSome(Status.BASKETBALL)
-console.log(`我拿到的是：${res}`);
+const res16 = getSome(Status.BASKETBALL)
+console.log(`我拿到的是：${res16}`);
 
